@@ -1,0 +1,7 @@
+C:\Users\Maksim\source\repos\DesAlgorithm\bin\Debug\DesAlgorithm.exe.config
+C:\Users\Maksim\source\repos\DesAlgorithm\bin\Debug\DesAlgorithm.exe
+C:\Users\Maksim\source\repos\DesAlgorithm\bin\Debug\DesAlgorithm.pdb
+C:\Users\Maksim\source\repos\DesAlgorithm\obj\Debug\DesAlgorithm.csproj.AssemblyReference.cache
+C:\Users\Maksim\source\repos\DesAlgorithm\obj\Debug\DesAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\DesAlgorithm\obj\Debug\DesAlgorithm.exe
+C:\Users\Maksim\source\repos\DesAlgorithm\obj\Debug\DesAlgorithm.pdb
